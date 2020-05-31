@@ -20,3 +20,5 @@ We repeat the above steps until sptSet does include all vertices of given graph.
 
 
 We use a boolean array sptSet[] to represent the set of vertices included in SPT. If a value sptSet[v] is true, then vertex v is included in SPT, otherwise not. Array dist[] is used to store shortest distance values of all vertices.
+# Naive_approach
+# Genetic_algorithm
